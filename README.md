@@ -1,4 +1,6 @@
 # Monotoria
+
+![monotoria](Untitled61_20260706215730.png)
 A Minecraft ripoff in C++ that plans to add everything most Minecraft fans want, WORK IN PROGRESS!
 
 #what is this?
